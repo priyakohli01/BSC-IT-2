@@ -4,7 +4,7 @@ Mid Term Practical (PBI-202)
 1. This section contains two questions. Both the questions are compulsory
 2. Folder Name should be "Yourname_UniversityRollNumber"
 3. Write your name, university roll number, subject name, subject code and sign at top right corner of every sheet.
-4. Code should be handwritten and muct contain outputs.
+4. Code should be handwritten and must contain outputs.
 
 **Q1.**
 In a museum, to watch a dinosaur skeleton you are allowed to visit alone. The guard of the museum saw a huge line to visit inside the museum. The line was growing long and long and seems like never-ending. So the guard consulted the owner and concluded that any visitor getting inside the museum will be allocated only 4 minutes and if they wish to stay longer then they need to stand in the queue again and wait for their turn to visit again for 4 minutes.
